@@ -1,3 +1,4 @@
+
 // Given 2 strings write a function 
 // that determine if the first is an anagram of the second.
 //ex: validAnagram("iceman","cinema") 
