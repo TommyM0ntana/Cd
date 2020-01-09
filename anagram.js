@@ -57,6 +57,7 @@ return true
 }
 
 console.log(validAnagram("anagram","nagaram"))
+console.log(validAnagram("car","rac"))
 
 
 
