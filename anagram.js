@@ -36,8 +36,6 @@ function validAnagram(first, second) {
     return false
   }
 
-  
-
 let lookup = {}
 for(let i in first){
   let letter = first[i]
@@ -58,6 +56,7 @@ return true
 
 console.log(validAnagram("anagram","nagaram"))
 console.log(validAnagram("car","rac"))
+console.log(validAnagram("querty","yruert"))
 
 
 
