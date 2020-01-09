@@ -36,12 +36,14 @@ function validAnagram(first, second) {
     return false
   }
 
+  
+
 let lookup = {}
 for(let i in first){
   let letter = first[i]
   lookup[letter] ? lookup[letter] +=1 : lookup[letter] = 1
 }
-
+//lookup[i] =-~lookup[i]
 
 for(let j in second){
   let letter = second[j]
