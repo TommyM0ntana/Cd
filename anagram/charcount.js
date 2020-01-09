@@ -108,4 +108,5 @@
   }
 
   console.log(charCount("hello"))
+  console.log(charCount("hello hi there"))
   
