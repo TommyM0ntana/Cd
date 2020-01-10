@@ -103,8 +103,6 @@
       //lookup[letter] ? lookup[letter] +=1 : lookup[letter] = 1
     }
     return obj
-    
   }
-
   console.log(charCount("hello"))
   
