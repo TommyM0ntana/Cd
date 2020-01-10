@@ -85,7 +85,6 @@
 //       //     result[char] = 1
 //        }
 //         }
-    
 // // //   //if char is a number/letter and is a key in the object add 1 to count
 // // //   //if is not in the object set it to 1
 // // //   //if char is something else don't do anything
