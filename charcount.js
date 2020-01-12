@@ -7,7 +7,9 @@
 //   let result = {}
 //   //loop over the string for each character
 //   for(let char of str){
+
 //       char = char.toLowerCase()
+//regex for making it alfa/mun
 //       if(/[a-z0-9]/.test(char)){
 
 //      result[char] > 0 ? ++result[char] : result[char] = 1
