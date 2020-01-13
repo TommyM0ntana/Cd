@@ -52,20 +52,15 @@
 // //if is there incremet by 1
 // //if is not there seu it to 1
 // //return the object
-
 //  }
-
 //  function charCount(str){
 //    let obj = {}
 //    for(let char in str){
 //      obj[char] > 0 obj[char]++ : obj[char] = 1
-
 //    }
 //    return obj
 //   }
-
 //   charCount("hello") // {h:1, e:1, l:2, o:1}
-
 
 // function charCount(str){
 //   //make un object that returns at the end
