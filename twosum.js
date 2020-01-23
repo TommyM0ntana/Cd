@@ -11,6 +11,7 @@ var twoSum = function(nums, target) {
   arr=[]
     nums.forEach((num,index) => {
       i = index+ 1
+      
       while ( i < nums.length){
         if(num + nums[i] == target){
           arr.push(index,i)
@@ -21,3 +22,5 @@ var twoSum = function(nums, target) {
     });
       return arr
   }
+
+// dfd
