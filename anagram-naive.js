@@ -28,5 +28,4 @@ for(let i = 0; i < second.length; i++){
 }
 return true
 }
-
 console.log(validAnagram("anagram","nagaram"))
