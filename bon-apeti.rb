@@ -10,3 +10,4 @@ def bon_appetit(bill, k, b)
     bon_appetit([3, 10, 2, 9], 1, 7) # Bon Appetit
   end
   
+  
