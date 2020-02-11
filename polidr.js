@@ -1,0 +1,6 @@
+function palidrome(str){
+
+
+  
+}
+
