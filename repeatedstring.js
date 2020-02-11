@@ -1,16 +1,31 @@
 function reverseString(str){
+
+  //first way
   //convert the strign into array
-  var strignIntoArray = str.split("")
-  console.log(strignIntoArray)
+  // var strignIntoArray = str.split("")
+  // console.log(strignIntoArray)
   
-  //reverse the array 
-  var reversedArray = strignIntoArray.reverse()
-  console.log(reversedArray)
+  // //reverse the array 
+  // var reversedArray = strignIntoArray.reverse()
+  // console.log(reversedArray)
   
-  //reconvert the array into a sting
-  reverseArrayIntoString = reversedArray.join("")
-  console.log(reverseArrayIntoString)
+  // //reconvert the array into a sting
+  // reverseArrayIntoString = reversedArray.join("")
+  // console.log(reverseArrayIntoString)
+
+//second way
+  return str.split("").reverse().join("")
+
+
+  //thirth way
+
+var final = ""
+for (let i = str.length-1; i>=0; i--){
+final+=str[i]
+   }
+return final
   }
+}
   
   
   console.log(reverseString("Buongiorno"))
