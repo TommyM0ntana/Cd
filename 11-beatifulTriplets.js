@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/beautiful-triplets
-// 10 - Beatiful Triplets - 20190927
 
 function beatifulTriplets(d, arr) {
   let tripletsAcc = 0;
