@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/lisa-workbook
-// 14 - Lisa's Workbook - 20191002
 
 function workbook(n, k, arr) {
     let page = 0;
