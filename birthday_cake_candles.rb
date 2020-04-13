@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+
 
 MAX_N = 10.pow(5)
 MAX_ITEM = 10.pow(7)
