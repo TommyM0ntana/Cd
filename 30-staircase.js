@@ -1,6 +1,3 @@
-// https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/staircase
-// 30 - Staircase - 20190921
-
 function staircase(n) {
   for (let row = 0; row < n; row++) {
     let line = [];
