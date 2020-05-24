@@ -7,4 +7,3 @@ function angryProfessor(k, a) {
   }
   
   console.log(angryProfessor(3, [-1,-3,4,2]));
-  console.log(angryProfessor(2, [0,-1,2,1]));
